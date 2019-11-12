@@ -10,7 +10,7 @@ def map(array)
   result
 end 
 
-def reduce(array, starting_value = 0)
+def reduce(array, starting_value = nil)
     if starting_value 
       sum = starting_value
       i = 0 
@@ -23,6 +23,5 @@ def reduce(array, starting_value = 0)
     i += 1 
   end
   sum 
-  binding.pry
 end
 
