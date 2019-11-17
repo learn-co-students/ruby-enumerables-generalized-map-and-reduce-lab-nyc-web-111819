@@ -1,3 +1,4 @@
+
 # Generalized Map and Reduce Lab
 
 ## Learning Goals
